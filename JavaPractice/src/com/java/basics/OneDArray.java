@@ -1,4 +1,4 @@
-package com.training.basic;
+package com.java.basics;
 
 public class OneDArray {
     public static void main(String[] args) {

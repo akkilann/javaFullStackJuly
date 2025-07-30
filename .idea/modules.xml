@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/InherAssignments/InherAssignments.iml" filepath="$PROJECT_DIR$/InherAssignments/InherAssignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFullStackTraining.iml" filepath="$PROJECT_DIR$/JavaFullStackTraining.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPractice/JavaPractice.iml" filepath="$PROJECT_DIR$/JavaPractice/JavaPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectAssignments/ObjectAssignments.iml" filepath="$PROJECT_DIR$/ObjectAssignments/ObjectAssignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OverloadAssignments/OverloadAssignments.iml" filepath="$PROJECT_DIR$/OverloadAssignments/OverloadAssignments.iml" />
     </modules>
   </component>
 </project>

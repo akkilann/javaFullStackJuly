@@ -1,4 +1,4 @@
-package com.training.basic.onlinepractice;
+package com.online.practice;
 
 import java.util.Arrays;
 import java.util.List;
