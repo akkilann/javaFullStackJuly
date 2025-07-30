@@ -7,8 +7,7 @@ public class TicketBooking {
 
     void bookingDetails(String busName, String source, String destination, String... passengerNames){
         System.out.println("Your ticket booking has been confirmed with \n " + busName +
-                " from " + source + " to " + destination + "For passengers " + Arrays.stream(passengerNames)
-                .collect(Collectors.joining(", ")) );
+                " from " + source + " to " + destination + "For passengers " + String.join(", ", passengerNames));
 
     }
 }

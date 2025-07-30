@@ -95,3 +95,10 @@ j
 :OverloadAssignments/src/com/over/quest5/TicketBooking.java,f/c/fce33fd120bd791cd49271d768762e3644cc65be
 a
 1OverloadAssignments/src/com/over/quest5/User.java,1/d/1d9e24146adc3a8bbf1ac21e9606af2817cecdfe
+a
+1JavaPractice/src/com/scenario/qns/AisleClass.java,8/2/82a4d35c2f5d341faac92d7070156d4d8acc650e
+`
+0JavaPractice/src/com/scenario/qns/MainClass.java,0/3/03bc392e5a5f7e5c2a1502efed415831cae925e4
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
