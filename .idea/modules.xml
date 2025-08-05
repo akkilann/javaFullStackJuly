@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractionDemo/AbstractionDemo.iml" filepath="$PROJECT_DIR$/AbstractionDemo/AbstractionDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/InherAssignments/InherAssignments.iml" filepath="$PROJECT_DIR$/InherAssignments/InherAssignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFullStackTraining.iml" filepath="$PROJECT_DIR$/JavaFullStackTraining.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPractice/JavaPractice.iml" filepath="$PROJECT_DIR$/JavaPractice/JavaPractice.iml" />

@@ -1,6 +1,0 @@
-
-r	java:S106	"+Replace this use of System.out by a logger.(„ó¶öøÿÿÿÿ8â½ß…3J$35652d84-baa1-490e-8de2-4f5f8692e19a
-O
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8òáÆß…3
-Z
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8òáÆß…3

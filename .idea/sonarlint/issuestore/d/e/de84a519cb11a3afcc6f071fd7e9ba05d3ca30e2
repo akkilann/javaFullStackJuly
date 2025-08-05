@@ -1,6 +1,0 @@
-
-¶
-java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹J$1117e3de-d357-4c59-b978-b7644bc2ac29
-k	java:S106"+Replace this use of System.err by a logger.(¬÷ù¨úÿÿÿÿJ$0b1eb533-9a09-4bc9-bebe-a19db15c4626
-l
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒJ$4ba52413-1b03-4e1d-b387-9d03c5d153f9

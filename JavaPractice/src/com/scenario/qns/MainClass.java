@@ -5,6 +5,6 @@ public class MainClass {
         AisleClass object = new AisleClass();
         //object.calc((Double) 10.0);
 
-        object.print( null);
+        object.print((String) null);
     }
 }
