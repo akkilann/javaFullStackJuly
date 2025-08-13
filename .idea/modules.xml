@@ -4,11 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbstractionDemo/AbstractionDemo.iml" filepath="$PROJECT_DIR$/AbstractionDemo/AbstractionDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/EncapsulationDemo/EncapsulationDemo.iml" filepath="$PROJECT_DIR$/EncapsulationDemo/EncapsulationDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/InherAssignments/InherAssignments.iml" filepath="$PROJECT_DIR$/InherAssignments/InherAssignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFullStackTraining.iml" filepath="$PROJECT_DIR$/JavaFullStackTraining.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPractice/JavaPractice.iml" filepath="$PROJECT_DIR$/JavaPractice/JavaPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObjectAssignments/ObjectAssignments.iml" filepath="$PROJECT_DIR$/ObjectAssignments/ObjectAssignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/OverloadAssignments/OverloadAssignments.iml" filepath="$PROJECT_DIR$/OverloadAssignments/OverloadAssignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserRegistration/UserRegistration.iml" filepath="$PROJECT_DIR$/UserRegistration/UserRegistration.iml" />
     </modules>
   </component>
 </project>

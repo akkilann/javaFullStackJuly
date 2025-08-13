@@ -13,6 +13,11 @@
             <ModuleSettings />
           </value>
         </entry>
+        <entry key="ExceptionHandling">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
         <entry key="InherAssignments">
           <value>
             <ModuleSettings />
@@ -34,6 +39,11 @@
           </value>
         </entry>
         <entry key="OverloadAssignments">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
+        <entry key="UserRegistration">
           <value>
             <ModuleSettings />
           </value>

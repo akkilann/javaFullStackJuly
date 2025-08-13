@@ -4,6 +4,10 @@ public class Student    {
     String studentName;
     String department;
 
+    static {
+        System.out.println(":::Student static block in invoked:::");
+    }
+
     public Student(String studentName, String department){
         this.studentName=studentName;
         this.department=department;

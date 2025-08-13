@@ -3,10 +3,11 @@ package com.online.practice;
 import java.util.Scanner;
 
 public class StudentMain {
-    public static void main(String[] args) {
-        Student[] students = new Student[2];
-        getStudentInfo(students);
-        printStuduentInfo(students);
+    public static void main(String[] args) throws ClassNotFoundException {
+        //Student[] students = new Student[2];
+        //getStudentInfo(students);
+        //printStuduentInfo(students);
+        Class.forName("com.online.practice.Student");
     }
 
     private static void printStuduentInfo(Student[] students) {
