@@ -1,0 +1,31 @@
+🚀 My Interview Experience - Java Developer 🚀
+I recently appeared for a Java Developer interview. I wanted to share the questions I was asked!
+
+Java Questions - 
+1. What is Static Import?
+2. Difference between Heap and Stack memory?
+3. What is the role of the Garbage Collector?
+4. Explain SRP with example?
+5. What is Transient keyword?
+6. How do you create a thread in Java?
+7. What is the return type of the run() method?
+8. Can you explain the Callable interface and how it differs from Runnable?
+
+Microservices & API Questions 🔌
+1. How would you call an API from another microservice?
+2. What is Security Context, and how is it used in securing APIs?
+3. How to handle errors in API communication?
+
+SQL Questions - 
+1. What are Window Functions?
+2. Difference between DELETE and TRUNCATE?
+3. RANK() vs DENSE_RANK()?
+4. Difference between HAVING and WHERE clause?
+5. What is Offset?
+
+Coding Questions - 
+1. Reverse a String
+2. Detect cycle in a Linked List
+
+Feel free to connect if you’re preparing too - we can grow together.
+Good luck to everyone! ✨
