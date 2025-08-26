@@ -29,3 +29,36 @@ Coding Questions -
 
 Feel free to connect if you’re preparing too - we can grow together.
 Good luck to everyone! ✨
+
+ 🚀 Top 20 Most Asked Interview Questions for Java Developers (3 Years Experience)
+
+If you are preparing for a Java + Spring Boot + MySQL developer role, these are some of the most frequently asked interview questions you must revise:
+
+🔹 Core Java
+ 1️⃣ What are the main features of Java 8 (Streams, Lambda, Optional, Functional Interfaces, Date/Time API)?
+ 2️⃣ Difference between HashMap, ConcurrentHashMap, and Hashtable? When to use each?
+ 3️⃣ What are checked, unchecked, and custom exceptions in Java? How do you handle them?
+ 4️⃣ Difference between final, finally, and finalize()?
+ 5️⃣ How does the Garbage Collector work? Can you force GC?
+🔹 Spring Boot & Spring Framework
+ 6️⃣ Difference between Spring and Spring Boot? Why do we use Spring Boot?
+ 7️⃣ How does Dependency Injection work? Difference between @Autowired, @Qualifier, and @Primary.
+ 8️⃣ What are the different scopes of Spring Beans? Which one is used in microservices?
+ 9️⃣ Difference between @Component, @Service, @Repository, and @Controller.
+ 🔟 How to implement exception handling? Explain @ControllerAdvice and @ExceptionHandler.
+ 1️⃣1️⃣ What is Auto-Configuration in Spring Boot? How does it work?
+ 1️⃣2️⃣ How do you secure REST APIs? (Spring Security vs JWT vs OAuth2)
+ 1️⃣3️⃣ What are Spring Boot Actuators and how do you use them?
+🔹 Microservices & REST APIs
+ 1️⃣4️⃣ Explain inter-service communication (REST, Feign Client, Kafka, RabbitMQ).
+ 1️⃣5️⃣ How do you handle API versioning in REST services?
+ 1️⃣6️⃣ How do you ensure fault tolerance & resilience (Circuit Breaker, Retry, Hystrix, Resilience4j)?
+🔹 MySQL & Database
+ 1️⃣7️⃣ Difference between INNER JOIN, LEFT JOIN, RIGHT JOIN.
+ 1️⃣8️⃣ How to optimize a slow SQL query? What indexing strategies have you used?
+ 1️⃣9️⃣ Explain ACID properties. How does MySQL ensure transaction management?
+ 2️⃣0️⃣ Difference between DELETE, TRUNCATE, and DROP? When to use each?
+
+✅ These questions cover Java basics, Spring Boot fundamentals, Microservices, and MySQL — exactly what interviewers expect from 2–4 years experienced developers.
+
+💡 Tip: Don’t just memorize answers — relate them with your real project experience to stand out.
