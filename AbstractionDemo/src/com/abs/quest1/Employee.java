@@ -1,6 +1,6 @@
 package com.abs.quest1;
 
-public class Employee {
+public abstract class Employee {
     String empName;
     double salary;
     int empId;
@@ -12,6 +12,12 @@ public class Employee {
         this.empId = empId;
     }
 
+    abstract void calcBonus(double amount);
+
+    String[] showCourses(){
+        return new String[]{"java", "spring", "springboot"};
+    }
+    abstract void showProjects();
 
     void printDetails(){
         System.out.println("Employee{" +

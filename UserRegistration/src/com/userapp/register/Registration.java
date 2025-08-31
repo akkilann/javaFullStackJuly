@@ -1,10 +1,8 @@
 package com.userapp.register;
 
 import com.userapp.exception.InvalidPasswordPatternException;
-import com.userapp.exception.PasswordAuthenticationError;
 import com.userapp.exception.UserAlreadyExistException;
-import com.userapp.service.IvalidationService;
-import com.userapp.service.IvalidationServiceImpl;
+import com.userapp.service.ValidationServiceImpl;
 
 import java.util.Objects;
 import java.util.Scanner;
@@ -18,7 +16,7 @@ public class Registration {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter Username ::");
         userName = scanner.next();
-        IvalidationServiceImpl ivalidationService = new IvalidationServiceImpl();
+        ValidationServiceImpl ivalidationService = new ValidationServiceImpl();
         if(Objects.nonNull(userName) && !ivalidationService.validateUserName(userName)){
             System.out.println("User Name Check Completed:: User Doesn't exist" );
             System.out.println("Enter Password ::");

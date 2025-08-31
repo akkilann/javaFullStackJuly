@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/ObjectAssignments/ObjectAssignments.iml" filepath="$PROJECT_DIR$/ObjectAssignments/ObjectAssignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/OverloadAssignments/OverloadAssignments.iml" filepath="$PROJECT_DIR$/OverloadAssignments/OverloadAssignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/UserRegistration/UserRegistration.iml" filepath="$PROJECT_DIR$/UserRegistration/UserRegistration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UtilDemo/UtilDemo.iml" filepath="$PROJECT_DIR$/UtilDemo/UtilDemo.iml" />
     </modules>
   </component>
 </project>

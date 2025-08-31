@@ -4,7 +4,7 @@ import com.userapp.exception.InvalidPasswordPatternException;
 import com.userapp.exception.PasswordAuthenticationError;
 import com.userapp.exception.UserAlreadyExistException;
 
-public class IvalidationServiceImpl implements IvalidationService{
+public class ValidationServiceImpl implements IvalidationService{
     @Override
     public boolean validateUserName(String userName) throws UserAlreadyExistException {
         String[] userList = {"Jack", "Don", "Jadiel","Daniel"};
