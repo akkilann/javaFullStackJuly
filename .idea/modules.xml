@@ -3,13 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbstractionDemo/AbstractionDemo.iml" filepath="$PROJECT_DIR$/AbstractionDemo/AbstractionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DatabaseConnectDemo/DatabaseConnectDemo.iml" filepath="$PROJECT_DIR$/DatabaseConnectDemo/DatabaseConnectDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/EncapsulationDemo/EncapsulationDemo.iml" filepath="$PROJECT_DIR$/EncapsulationDemo/EncapsulationDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/InherAssignments/InherAssignments.iml" filepath="$PROJECT_DIR$/InherAssignments/InherAssignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceDemo/InterfaceDemo.iml" filepath="$PROJECT_DIR$/InterfaceDemo/InterfaceDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFullStackTraining.iml" filepath="$PROJECT_DIR$/JavaFullStackTraining.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPractice/JavaPractice.iml" filepath="$PROJECT_DIR$/JavaPractice/JavaPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaDemo/LambdaDemo.iml" filepath="$PROJECT_DIR$/LambdaDemo/LambdaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultithreadingDemo/MultithreadingDemo.iml" filepath="$PROJECT_DIR$/MultithreadingDemo/MultithreadingDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObjectAssignments/ObjectAssignments.iml" filepath="$PROJECT_DIR$/ObjectAssignments/ObjectAssignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/OverloadAssignments/OverloadAssignments.iml" filepath="$PROJECT_DIR$/OverloadAssignments/OverloadAssignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamsDemo/StreamsDemo.iml" filepath="$PROJECT_DIR$/StreamsDemo/StreamsDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/UserRegistration/UserRegistration.iml" filepath="$PROJECT_DIR$/UserRegistration/UserRegistration.iml" />
       <module fileurl="file://$PROJECT_DIR$/UtilDemo/UtilDemo.iml" filepath="$PROJECT_DIR$/UtilDemo/UtilDemo.iml" />
     </modules>

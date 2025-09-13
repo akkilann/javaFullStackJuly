@@ -13,6 +13,10 @@ public class Student    {
         this.department=department;
     }
 
+    public static void getMessage(){
+        System.out.println(":::Student getMessage is invoked:::");
+    }
+
     public String getStudentName() {
         return studentName;
     }

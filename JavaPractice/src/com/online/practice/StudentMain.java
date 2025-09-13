@@ -3,11 +3,16 @@ package com.online.practice;
 import java.util.Scanner;
 
 public class StudentMain {
+
+    static {
+        System.out.println("Student main static block::");
+    }
     public static void main(String[] args) throws ClassNotFoundException {
         //Student[] students = new Student[2];
         //getStudentInfo(students);
         //printStuduentInfo(students);
-        Class.forName("com.online.practice.Student");
+        //Class.forName("com.online.practice.Student");
+        Student.getMessage();
     }
 
     private static void printStuduentInfo(Student[] students) {

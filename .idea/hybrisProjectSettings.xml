@@ -8,6 +8,11 @@
             <ModuleSettings />
           </value>
         </entry>
+        <entry key="DatabaseConnectDemo">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
         <entry key="EncapsulationDemo">
           <value>
             <ModuleSettings />
@@ -23,6 +28,11 @@
             <ModuleSettings />
           </value>
         </entry>
+        <entry key="InterfaceDemo">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
         <entry key="JavaFullStackTraining">
           <value>
             <ModuleSettings />
@@ -33,12 +43,32 @@
             <ModuleSettings />
           </value>
         </entry>
+        <entry key="LambdaDemo">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
+        <entry key="MultithreadingDemo">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
         <entry key="ObjectAssignments">
           <value>
             <ModuleSettings />
           </value>
         </entry>
         <entry key="OverloadAssignments">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
+        <entry key="StreamsDemo">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
+        <entry key="Temp">
           <value>
             <ModuleSettings />
           </value>
